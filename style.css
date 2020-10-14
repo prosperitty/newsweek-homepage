@@ -46,7 +46,6 @@ img[src="images/33.webp"] {
 }
 
 .category-item {
-    justify-content: center;
     flex-grow: 1;
 }
 
@@ -67,7 +66,8 @@ img[src="images/33.webp"] {
     letter-spacing: -1px;
 }
 
-.main-section {
+.main-section,
+.in-the-mag {
     max-width: 1310px;
     font-size: 0.9em;
     background-color: white;
@@ -80,4 +80,9 @@ img[src="images/33.webp"] {
 .article-body {
     padding-top: 10px;
     margin-bottom: 15px;
+}
+
+.red-bg {
+    padding: 2px 7px;
+    background-color: #f72210;
 }
