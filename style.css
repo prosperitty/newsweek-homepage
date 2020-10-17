@@ -102,5 +102,13 @@ img[src="images/33.webp"] {
 }
 
 .nw-logo-footer {
-    width: 300px;
+    width: 250px;
+}
+
+.social-icons:hover {
+    fill: #f72210;
+}
+
+.social-icons {
+    margin: 0 5px;
 }
