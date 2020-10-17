@@ -67,7 +67,9 @@ img[src="images/33.webp"] {
 }
 
 .main-section,
-.in-the-mag {
+.in-the-mag,
+.more-news,
+.footer-socials {
     max-width: 1310px;
     font-size: 0.9em;
     background-color: white;
@@ -85,4 +87,20 @@ img[src="images/33.webp"] {
 .red-bg {
     padding: 2px 7px;
     background-color: #f72210;
+}
+
+.small-text {
+    font-size: 1em;
+}
+
+.red-text {
+    color: #f72210;
+}
+
+.nw-logo-footer path {
+    fill: #f72210 ;
+}
+
+.nw-logo-footer {
+    width: 300px;
 }
